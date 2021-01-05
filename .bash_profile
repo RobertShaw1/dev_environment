@@ -15,3 +15,6 @@ PS1="\[\e[36m\]\u \[\e[37m\]in \[\e[33m\]\w \[\e[37m\]$ "
 
 # Windows OS specific settings
 alias c="clear"
+
+#Default Directory
+cd ~/Repos
