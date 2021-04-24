@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "wix.vscode-import-cost",
+    "esbenp.prettier-vscode",
+    "redhat.vscode-yaml",
+    "ms-azuretools.vscode-docker",
+    "eamodio.gitlens",
+    "oderwat.indent-rainbow",
+    "sirtori.indenticator",
+    "xabikos.javascriptsnippets",
+    "ritwickdey.liveserver",
+    "pkief.material-icon-theme",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-wsl",
+    "naumovs.theme-oceanicnext",
+    "vscodevim.vim"
+  ]
+}
