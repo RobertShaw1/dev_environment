@@ -17,4 +17,4 @@ PS1="\[\e[36m\]\u \[\e[37m\]in \[\e[33m\]\w \[\e[37m\]$ "
 alias c="clear"
 
 #Default Directory
-cd ~/Repos
+cd ~/dev
