@@ -1,29 +1,17 @@
 {
-    "workbench.sideBar.location": "right",
-    "workbench.colorTheme": "Oceanic Next (dimmed bg)",
-    "git.autofetch": true,
-    "terminal.integrated.shellArgs.linux": [
-        "-l"
-    ],
-    "editor.rulers": [
-        80,
-        100
-    ],
-    "window.zoomLevel": -1,
-    "vim.useCtrlKeys": false,
-    "prettier.semi": false,
-    "prettier.singleQuote": true,
-    "[html]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[markdown]": {
-        "files.trimTrailingWhitespace": false
-    },
-    "liveServer.settings.CustomBrowser": "firefox:PrivateMode",
-    "editor.formatOnSave": true,
-    "terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash.exe",
-    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
-    "terminal.integrated.shellArgs.windows": [
-        "--login"
-    ]
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.rulers": [80, 100],
+  "editor.tabSize": 2,
+  "git.autofetch": true,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false
+  },
+  "terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash.exe",
+  "vim.useCtrlKeys": false,
+  "workbench.colorTheme": "Oceanic Next (dimmed bg)",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.sideBar.location": "right"
 }
